@@ -1,9 +1,9 @@
 <?php
 
-    $dbhost = 'sql101.epizy.com';
-    $dbuser = 'epiz_22580105';
-    $dbpass = 'OPQaDTu6r3fZr4j';
-    $dbname = 'epiz_22580105_event_wishes';
+    $dbhost = '';
+    $dbuser = '';
+    $dbpass = '';
+    $dbname = '';
 
     $con=mysqli_connect($dbhost, $dbuser, $dbpass,$dbname) //connect to the database server
     or die ("Could not connect to mysql because ".mysqli_error());
