@@ -9,14 +9,6 @@ Happy New Year Name Wishing Web APP :100:
 - Bootstrap CSS (Frontend Framework)
 - PHP/MYSQL [PHP Version - version 5.6 or greater(PHP 7 Recommended) / MYSQL Version -  5.5 or greater / MariaDB version 10.0 or greater]
 
-## Demo
-
-Watch demo in youtube - <a href="https://youtu.be/WoVyj0X2-EA" target="_blank">Demo</a>
-
-Forum Discussion - <a href="https://goo.gl/Mkebuv" target="_blank">Join Now</a>
-
-Blog Post - <a href="https://awts.in/2nBIPZh" target="_blank">Read Now</a>
-
 ## Recent Changes
 
 :bug: Fix W3 validation Errors <br>
@@ -77,4 +69,4 @@ header("Location: http://localhost/newyear/$str");
 ```
 
 - That's all Done - Happy Event :-) 
-
+- credits - Ashvin Pandey
